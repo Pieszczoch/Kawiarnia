@@ -1,0 +1,16 @@
+.itemGallery{
+    margin: 0 1vh ;
+  }
+
+.gallery {
+  display: block;
+  width: 37vh;
+  height: 37vh;
+  object-fit: cover;
+  transition: .5s ease;
+ }
+
+.itemGallery:hover .gallery {
+    opacity: .5;
+  }
+

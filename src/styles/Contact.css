@@ -1,0 +1,19 @@
+table, td {
+    padding: 10px 5px;
+    color: saddlebrown;
+    font-weight: bold;
+}
+
+.maps {
+    width: 60vh;
+    height: 50vh;
+    border: 2px solid black;
+}
+
+@media (max-width: 1000px) {
+    .maps {
+        width: 45vh;
+        height: 50vh;
+    }
+    
+}

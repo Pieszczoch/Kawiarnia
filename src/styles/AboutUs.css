@@ -1,0 +1,23 @@
+.bookCup{
+    width: 70vh;
+    margin-right: 15vh;
+}
+
+p {
+    margin-top: 3vh;
+    font-size: 2.5vh;
+}
+
+.marginTop {
+    margin-top: 10vh;
+}
+
+@media (max-width:1000px) {
+    .h1Phone {
+        text-align: center;
+    }
+
+    .marginTop {
+        margin-top: -5vh;
+    }
+}

@@ -1,0 +1,16 @@
+.itemOffer{
+  width: 45vh;
+  }
+
+.offer {
+    display: block;
+    margin: 0 auto;
+    width: 35vh;
+    object-fit: cover;
+ }
+
+ @media (max-width:1000px) {
+   .itemOffer {
+     margin: 0;
+   }
+ }

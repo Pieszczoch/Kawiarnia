@@ -1,0 +1,22 @@
+figcaption {
+    color: white;
+    position: absolute;
+    bottom: 0vh;
+    transform: translate(-50%, -50%);
+    right: 0%;
+    font-size: 5.5vh;
+}
+
+@media (max-width:1000px) {
+    figcaption {
+        color: white;
+        position: absolute;
+        bottom: 0vh;
+        transform: translate(0%, 0%);
+        right: 3%;
+        font-size: 5vh;
+    }
+}
+
+
+
